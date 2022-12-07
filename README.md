@@ -7,6 +7,5 @@ Telegram - @Ruturaj_Patra
 
 ## Features
 1. This uses bootstrap, so page doesn't reload after any task. \
-2. You can add, delete and also update the task.
-3.  
+2. You can add, delete and also update the task. 
 ## Stacks Used - react.js, bootstrap
